@@ -14,6 +14,6 @@
 
         <p>Il est actuellement {{ date('H:i') }} </p>
 
-        <footer>&copy; Copyright {{ date('Y') }} &amidot; <a href="#">About us</a></footer>
+        <footer>&copy; Copyright {{ date('Y') }} &middot; <a href="about-me">About us</a></footer>
     </body>
 </html>
